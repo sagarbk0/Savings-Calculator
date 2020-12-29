@@ -2,4 +2,4 @@
 
 Allows user to view future savings with and without interest.
 
-![An image of the application](Image.png "Application Image")
+![An image of the application](Image.PNG "Application Image")
